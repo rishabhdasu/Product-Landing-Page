@@ -1,0 +1,53 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+}
+
+
+#header
+{
+    width: 100%;
+    display: flex;
+    background-color: #262626;
+    padding: 1vw;
+    align-items: center;
+    position: fixed;
+}
+
+
+#header-img
+{
+ width: 20px;
+ height: 20px;
+ margin-left: 18vw;
+
+}
+ #nav-bar
+ {
+     width: 100%;
+     color: white;
+     margin-right: 18vw;
+ }
+
+
+ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.background
+{
+    background-color: black;
+    width: 100%;
+    height: 650px;
+    margin: 0;
+    color: white;
+    text-align: center;
+
+}
